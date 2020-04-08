@@ -24,7 +24,7 @@ Mobile view:
 
 Installation: No extra installation requirements for the user.
 
-Contributions: Jesse Edwards, my classmate who helped me with the CSS parts of the video. I also utilized Pixabay's website quite a bit for the images. Also, MTG Cardsmith for their card generator.
+Contributions:  I also utilized Pixabay's website quite a bit for the images. Also, MTG Cardsmith for their card generator.
 
 Challenges: Creating the looping video- it's still not a smooth loop, but I am currently unable to use a video editor to create a more seamless interface, generating MTG cards in general. I also continue to struggle with flex even with the assistance of a CSS framework.
 
