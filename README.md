@@ -4,7 +4,7 @@
 
 Live Site:https://dee1985.github.io/basic-portfolio/
 
-Resume:https://github.com/Dee1985/basic-portfolio/blob/master/AyDy-Burling-techRN%20resume.pdf
+Resume:https://github.com/Dee1985/basic-portfolio/blob/master/AyDyBurling_TechRN_Resume.pdf
 
 LinkedIn: https://www.linkedin.com/in/aydy-burling
 
